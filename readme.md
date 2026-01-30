@@ -1,7 +1,7 @@
 # 🔌 Energy Consumption Analysis of MQTT Brokers  
 **ICTE Project – Erasmus Mundus Master**
 
-This project analyzes and compares the energy usage of different MQTT brokers as part of the ICTE (ICT for Energy) course. The goal is to assess the efficiency of lightweight communication protocols commonly used in IoT, with a focus on their energy profiles under various workloads. The paper for the project can be found in the repository.
+This project analyzes and compares the energy usage of different MQTT brokers as part of the ICTE (ICT and Environment) course. The goal is to assess the efficiency of lightweight communication protocols commonly used in IoT, with a focus on their energy profiles under various workloads. The paper for the project can be found in the repository.
 
 ## Project Description
 
